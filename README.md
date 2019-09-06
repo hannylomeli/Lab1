@@ -14,7 +14,7 @@ Debido a tu formación, te piden que este proceso que construyas sea repetible p
 
 En la mesa de análisis están interesados en conocer el proceso que sigues para adquirir, limpiar, dar formato y utilizar los datos, y a pesar que el equipo senior de análisis está compuesto por personal altamente calificado en temas de economía y finanzas, ellos no saben programar por lo que te piden que incluyas el código utilizado, y que sea de manera ordenada y explicando el sentido de las funciones y paqueterías que requeriste.
 
-Comparar con 1 año de información: 1.3.17 al 1.3.18
+Comparar con 1 año de información: 2.28.17 al 2.28.18
 
 Utilizar un ETF de Ishares para el mercado de renta varialbe de USA
 
